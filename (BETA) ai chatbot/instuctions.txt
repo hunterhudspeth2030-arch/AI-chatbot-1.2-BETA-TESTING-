@@ -1,4 +1,6 @@
-first download ollama and install it once installed open a cmd prompt and type in ollama pull qwen2.5-coder:1.5b and then ollama pull qwen2.5-coder:7b 
-2 install streamlit pip install streamlit in cmd make sure you have python 3.10+ installed or this will not work i prefer python 3.14 
-3 that should be all and the run command is python -m streamlit run  also pip install streamlit requests psutil
+1. Download ollama and install it once installed open a cmd prompt and type in ollama pull qwen2.5-coder:1.5b and then ollama pull qwen2.5-coder:7b  and then (ollama pull Llama 4 Maverick THIS IS THE ONE YOU WILL USE!!)
+
+2. install streamlit (pip install streamlit) in cmd make sure you have python 3.10+ installed or this will not work i prefer python 3.14 
+
+3. that should be all and the run command is python -m streamlit run  also pip install streamlit requests psutil
 and that should be it 
